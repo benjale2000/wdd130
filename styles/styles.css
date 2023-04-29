@@ -1,5 +1,5 @@
 nav {
-    background-color: blue;
+    background-color: steelblue;
     padding: 10px;
 }
 
@@ -14,13 +14,37 @@ h1 {
 }
 
 img {
-    width: 150;
+    width: 150px;
     height: auto;
-    border: 1px solid steelblue;
+    border: 1px solid green;
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
 
 p {
-    padding: 10px;
+    padding: 0;
+}
+
+main {
+    max-width: 840px;
+}
+
+aside {
+    margin: lem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: lem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    margin-top: lem;
+    border-top: lpx solid #000;
+    text-align: center;
 }
