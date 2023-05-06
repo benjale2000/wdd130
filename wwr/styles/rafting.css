@@ -57,6 +57,11 @@ nav a:hover {
     background-color: var(--nav-hover-background-color);
 }
 
+nav a img {
+    width: 100px;
+    height: auto;
+}
+
 .hero img {
     display: block;
     width: 100%;
@@ -69,6 +74,7 @@ nav a:hover {
 
 .hero article {
     position: absolute;
+    width: 960px;
 }
 
 .hero article img {
