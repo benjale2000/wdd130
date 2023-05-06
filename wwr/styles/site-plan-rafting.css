@@ -6,8 +6,8 @@
     --accent1-color: #084C61;
     --accent2-color: #A2999E;
 
-    --heading-font: '______', serif;
-    --paragraph-font: '______', serif;
+    --heading-font: '______', Roboto;
+    --paragraph-font: '______', Roboto;
 
     --nav-background-color: #7BDFF2;
     --nav-link-color: #084C61;
@@ -16,7 +16,7 @@
 }
 /* A random comment */
 body {
-    font-family: serif;
+    font-family: var(--paragraph-font);
     max-width: 960px;
     padding: 20px;
 }
