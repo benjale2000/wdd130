@@ -62,8 +62,9 @@ aside {
 }
 
 aside img {
-    width: 200px;
+    width: 250px;
     height: auto;
+    float: none;
 }
 
 aside h2 {
