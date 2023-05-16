@@ -77,21 +77,28 @@ nav a img {
 
 .hero img {
     display: block;
-    width: 300px;
+    width: 100%;
     height: auto;
 }
 
 .hero h1 {
     position: absolute;
+    top: 250px;
+    left: 380px;
 }
 
 .hero article {
+    background-color: #A2999E;
     position: absolute;
-    width: 960px;
+    top: 350px;
+    left: 100px;
+    width: 760px;
+    padding: 10px;
 }
 
 .hero article img {
     float: right;
+    width: 25%;
 }
 
 .rafting {
