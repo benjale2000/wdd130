@@ -115,3 +115,16 @@ nav a img {
     height: auto;
     grid-row: 2/3;
 }
+
+form {
+    display: grid;
+    grid-template-columns: 960px;
+    padding: 10px;
+    background-color: lightgray;
+    justify-items: start;
+}
+
+.radio {
+    display: grid;
+    grid-template-columns: 30px 930px;
+}
