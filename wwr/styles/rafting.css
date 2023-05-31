@@ -128,3 +128,9 @@ form {
     display: grid;
     grid-template-columns: 30px 930px;
 }
+
+.subscribe {
+    display: grid;
+    grid-template-columns: 340px 620px;
+    justify-items: start;
+}
