@@ -45,7 +45,7 @@ header nav {
 }
 
 p {
-    padding: 25;
+    padding: 2px;
 }
 
 nav {
@@ -133,4 +133,29 @@ form {
     display: grid;
     grid-template-columns: 340px 620px;
     justify-items: start;
+}
+
+.trips img {
+    width: 250px;
+}
+
+.trips {
+    display: grid;
+    grid-template-columns: 320px 320px 320px;
+    align-items: start;
+    justify-items: center;
+    background-color: lightgrey;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 320px 320px 320px;
+}
+
+.ingrid img {
+    width: 300px;
+}
+
+.ingrid {
+    display: flex;
 }
